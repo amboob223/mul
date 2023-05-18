@@ -1,0 +1,1 @@
+so to get it to work we had to use the enctype in the form directly and not in the fetch object response we have to remove the headers in the object of the response in the event of the client whrn they hit the button 
